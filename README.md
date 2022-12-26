@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @JBalkobsn
-- 👀 I’m interested in ...
+- 👀 I’m interested in in learning new coding stuff to get better at my job and maybe get a new better job
 - 🌱 I’m currently learning Python & React
+<!---
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+--->
+- 📫 How to reach me: 
+- Twitter: JakobBaltes
+- E-Mail: JBalkobsn@gmail.com
 
 <!---
 JBalkobsn/JBalkobsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
