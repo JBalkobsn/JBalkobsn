@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JBalkobsn
-- 👀 I’m interested in in learning new coding stuff
+- 👀 I’m interested in learning new coding stuff
 - 🌱 I’m currently learning Python & React
 <!---
 - 💞️ I’m looking to collaborate on ...
