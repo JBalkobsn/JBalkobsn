@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
 - Twitter: JakobBaltes
 - E-Mail: contact@jakob-baltes.com
-- Website: jakob-baltes.com
+- Website: [jakob-baltes.com](https://jakob-baltes.com/)
 
 <!---
 JBalkobsn/JBalkobsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
