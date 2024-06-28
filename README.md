@@ -1,4 +1,6 @@
-![Metrics](https://github.com/JBalkobsn/JBalkobsn/blob/master/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ---
 <!--
